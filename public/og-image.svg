@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="a" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#73a9ff" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#a37cff" stop-opacity="0.95"/>
+    </linearGradient>
+    <radialGradient id="r" cx="78%" cy="28%" r="60%">
+      <stop offset="0" stop-color="#7faaff" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#0a0b0f" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#08090c"/>
+  <rect width="1200" height="630" fill="url(#r)"/>
+  <g opacity="0.12" stroke="#fff">
+    <path d="M0 90H1200M0 170H1200M0 250H1200M0 330H1200M0 410H1200M0 490H1200M0 570H1200"/>
+    <path d="M80 0V630M200 0V630M320 0V630M440 0V630M560 0V630M680 0V630M800 0V630M920 0V630M1040 0V630M1160 0V630"/>
+  </g>
+  <rect x="72" y="74" width="12" height="94" rx="6" fill="url(#a)"/>
+  <text x="112" y="112" fill="#8a8e9a" font-family="Inter, Arial" font-size="18" letter-spacing="3">MIHAD KAZI</text>
+  <text x="72" y="225" fill="#f4f5f7" font-family="Space Grotesk, Arial" font-size="68" font-weight="700">Game &amp; AR Developer</text>
+  <text x="72" y="288" fill="#b9bdc7" font-family="Inter, Arial" font-size="30">Software Developer · Unity · C# · Augmented Reality</text>
+  <g transform="translate(860,150)">
+    <rect width="230" height="230" rx="34" fill="#0f1117" stroke="#2b2f3a"/>
+    <circle cx="115" cy="115" r="72" fill="none" stroke="url(#a)" stroke-width="3"/>
+    <path d="M76 150V82h19l20 26 20-26h19v68h-19v-37l-20 25-20-25v37z" fill="url(#a)"/>
+  </g>
+  <text x="72" y="540" fill="#7d8290" font-family="Inter, Arial" font-size="20">mihadkazi.me</text>
+</svg>
