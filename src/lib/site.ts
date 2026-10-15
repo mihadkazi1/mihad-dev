@@ -9,7 +9,7 @@ export const site = {
   location: 'Uttara, Dhaka, Bangladesh',
   github: 'https://github.com/mihadkazi1',
   linkedin: 'https://www.linkedin.com/in/mihadkazi1',
-  cvPath: '/cv/Kazi-Saqlain-Mihad-CV.pdf',
+ cvPath: "/cv/Kazi%20Saqlain%20Mihad%20CV.pdf",
   // Replace this later with your Google Drive folder containing your certificates.
   credentialDocumentsUrl: 'https://drive.google.com/drive/folders/REPLACE_WITH_YOUR_CREDENTIALS_FOLDER',
 } as const
