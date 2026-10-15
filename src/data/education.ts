@@ -5,9 +5,9 @@ export const education: EducationItem[] = [
     institution: 'Green University of Bangladesh',
     qualification: 'B.Sc. in Computer Science and Engineering',
     period: 'Oct 2022 — Present',
-    metric: 'CGPA 3.04 / 4.00',
+    metric: 'CGPA 3.03 / 4.00',
     details: [
-      'Last 3 semesters: 3.65 / 4.00',
+      'Last 3 semesters: 3.70 / 4.00',
       'Machine Learning, Artificial Intelligence, Networking, Data Structures & Algorithms',
       'Database Management System, Operating System, Computer Architecture, OOP, Web Programming',
       'Additional: Engineering Economics, Engineering Drawing',
