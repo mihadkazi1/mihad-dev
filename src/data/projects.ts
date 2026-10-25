@@ -26,6 +26,35 @@ export const projects: Project[] = [
   ],
 },
 
+
+{
+  id: 'echoes-of-sonargaon-webar',
+  title: 'Echoes of Sonargaon: The Cursed Guardian',
+  category: 'WebAR Game',
+  description:
+    'An immersive image-target WebAR adventure inspired by ancient Sonargaon, featuring a mysterious guardian, interactive 3D combat, and hidden treasure.',
+  details:
+    'Echoes of Sonargaon: The Cursed Guardian is a browser-based augmented reality game built with 8th Wall, TypeScript, and interactive 3D assets. Players scan an image target to enter an immersive experience, interact with an ancient gate, encounter the cursed guardian, explore combat mechanics, and discover hidden treasure—all through a smartphone browser without installing a traditional mobile application.',
+  technologies: ['8th Wall', 'TypeScript', 'WebAR', '3D Animation'],
+  image:
+    'https://raw.githubusercontent.com/mihadkazi1/echoes-of-sonargaon-webar/main/GAMEPLAY.jpg',
+  alt: 'Echoes of Sonargaon: The Cursed Guardian WebAR gameplay',
+  github:
+    'https://github.com/mihadkazi1/echoes-of-sonargaon-webar',
+  demo: 'https://echoes-of-sonargaon-webar.netlify.app',
+  featured: true,
+  year: '2026',
+  highlights: [
+    'Image-target tracking with 8th Wall',
+    'Interactive ancient gate animation',
+    'Guardian encounters and combat mechanics',
+    '3D treasure discovery',
+    'Browser-based mobile AR gameplay',
+  ],
+},
+
+
+
   {
     id: 'eduar-3d',
     title: 'EduAR 3D',
