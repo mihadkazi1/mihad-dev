@@ -9,7 +9,7 @@ export const projects: Project[] = [
 {
   id: 'echoes-of-sonargaon-webar',
   title: 'Echoes of Sonargaon: The Cursed Guardian',
-  category: 'WebAR Game',
+  category: 'Augmented Reality',
   description:
     'An immersive image-target WebAR adventure inspired by ancient Sonargaon, featuring a mysterious guardian, interactive 3D combat, and hidden treasure.',
   details:
