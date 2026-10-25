@@ -15,9 +15,8 @@ export const projects: Project[] = [
   details:
     'Echoes of Sonargaon: The Cursed Guardian is a browser-based augmented reality game built with 8th Wall, TypeScript, and interactive 3D assets. Players scan an image target to enter an immersive experience, interact with an ancient gate, encounter the cursed guardian, explore combat mechanics, and discover hidden treasure—all through a smartphone browser without installing a traditional mobile application.',
   technologies: ['8th Wall', 'TypeScript', 'WebAR', '3D Animation'],
-  image:
-    'https://raw.githubusercontent.com/mihadkazi1/echoes-of-sonargaon-webar/main/GAMEPLAY.jpg',
-  alt: 'Echoes of Sonargaon: The Cursed Guardian WebAR gameplay',
+ image: 'https://raw.githubusercontent.com/mihadkazi1/echoes-of-sonargaon-webar/main/GAMEPLAY.jpg',
+alt: 'Echoes of Sonargaon: The Cursed Guardian gameplay preview',
   github:
     'https://github.com/mihadkazi1/echoes-of-sonargaon-webar',
   demo: 'https://echoes-of-sonargaon-webar.netlify.app',
