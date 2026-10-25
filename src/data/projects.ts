@@ -5,27 +5,6 @@ const eduArModelImage = 'https://raw.githubusercontent.com/mihadkazi1/EduAR-3D/m
 
 export const projects: Project[] = [
 
-{
-  id: 'auron-watch-ar',
-  title: 'AURON Watch AR',
-  category: 'Augmented Reality',
-  description: 'An interactive AR watch experience that brings the AURON watch to life through immersive 3D visualization and live wrist try-on.',
-  details:
-    'AURON Watch AR is an augmented reality experience built with Unity and Vuforia. Users can explore a 3D watch model and experience the watch through an interactive live wrist try-on, bridging digital product visualization with real-world interaction.',
-  technologies: ['Unity', 'C#', 'Vuforia Engine', 'Augmented Reality'],
-  image: 'https://raw.githubusercontent.com/mihadkazi1/AURON-Watch-AR/main/docs/screenshots/05-live-wrist-try-on.jpg',
-  alt: 'AURON Watch AR live wrist try-on experience',
-  github: 'https://github.com/mihadkazi1/AURON-Watch-AR',
-  featured: true,
-  year: '2026',
-  highlights: [
-    'Live wrist try-on experience',
-    'Interactive 3D watch visualization',
-    'Unity and Vuforia integration',
-    'Augmented reality product experience',
-  ],
-},
-
 
 {
   id: 'echoes-of-sonargaon-webar',
@@ -52,6 +31,32 @@ export const projects: Project[] = [
     'Browser-based mobile AR gameplay',
   ],
 },
+
+
+
+{
+  id: 'auron-watch-ar',
+  title: 'AURON Watch AR',
+  category: 'Augmented Reality',
+  description: 'An interactive AR watch experience that brings the AURON watch to life through immersive 3D visualization and live wrist try-on.',
+  details:
+    'AURON Watch AR is an augmented reality experience built with Unity and Vuforia. Users can explore a 3D watch model and experience the watch through an interactive live wrist try-on, bridging digital product visualization with real-world interaction.',
+  technologies: ['Unity', 'C#', 'Vuforia Engine', 'Augmented Reality'],
+  image: 'https://raw.githubusercontent.com/mihadkazi1/AURON-Watch-AR/main/docs/screenshots/05-live-wrist-try-on.jpg',
+  alt: 'AURON Watch AR live wrist try-on experience',
+  github: 'https://github.com/mihadkazi1/AURON-Watch-AR',
+  featured: true,
+  year: '2026',
+  highlights: [
+    'Live wrist try-on experience',
+    'Interactive 3D watch visualization',
+    'Unity and Vuforia integration',
+    'Augmented reality product experience',
+  ],
+},
+
+
+
 
 
 
